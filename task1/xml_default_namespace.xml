@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <DOCUMENT xmlns="http://www.starpowder.com/dtd/">
+            <CUSTOMER>
+                <NAME>
+                    <LAST_NAME>smith</LAST_NAME>
+                    <FIRST_NAME>Sam</FIRST_NAME>
+                </NAME>
+                <DATA>October 15, 2003</DATA>
+                <ORDERS>
+                    <ITEM>
+                        <PRODUCT>Tomatoes</PRODUCT>
+                        <NUMBER>8</NUMBER>
+                        <PRICE>$1.25</PRICE>
+                    </ITEM>
+                    <ITEM>
+                        <PRODUCT>Oranges</PRODUCT>
+                        <NUMBER>24</NUMBER>
+                        <PRICE>$4.98</PRICE>
+                    </ITEM>
+                </ORDERS>
+            </CUSTOMER>
+
+</DOCUMENT>
